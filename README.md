@@ -4,6 +4,12 @@
 
 ### Hi there 👋
 
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=gray)
+![Java](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=blue)
+
+
+
 <!--
 **JoungbinPark/JoungbinPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
