@@ -12,5 +12,14 @@ public class Application1 {
 
       * */
 
+        /* 1. non-static 메소드의 경우 */
+        com.ohgiraffers.section01.method.Calculator cal = new com.ohgiraffers.section01.method.Calculator();
+        int min = cal.minNumberOf(30, 20);
+        System.out.println("30과 20 중 최솟값 : " + min);
+
+        /* 2. static 메소드의 경우 */
+        int max = com.ohgiraffers.section01.method.Calculator.maxNumberOf(30,20);
+        System.out.println("30과 20 중 최댓값 : " + max);
+        // 너무 길다...
     }
 }
