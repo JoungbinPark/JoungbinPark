@@ -20,6 +20,6 @@ public class Application1 {
         /* 2. static 메소드의 경우 */
         int max = com.ohgiraffers.section01.method.Calculator.maxNumberOf(30,20);
         System.out.println("30과 20 중 최댓값 : " + max);
-        // 너무 길다...
+        // 너무 길다... -> 임포트로 극복
     }
 }
