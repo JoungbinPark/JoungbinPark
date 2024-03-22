@@ -1,0 +1,16 @@
+package com.ohgiraffers.section02.package_and_import;
+
+public class Application1 {
+    public static void main(String[] args){
+     /* 수업목표 : 패키지에 대해 이해할 수 있다. */
+     /* 패키지란?
+     * 서로 관련된 클래스 또는 인터페이스 등을 모아 하나의 묶음(그룹)으로 단위를 구성하는 것을 말한다.
+     * 같은 패키지 내에서는 동일한 이름의 클래스를 만들 수 없지만, 패키지가 다르면 동일한 이름을 가진 클래스를 만들 수 있다.
+     * 클래스명은 원래 패키지명을 포함하기 때문이다. ex) package com.ohgiraffers.section01.method.Calculator;
+     * 지금까지는 동일한 패키지 내에서 사용했기 때문에 클래스명에 패키지명을 적지 않았다.
+     * 서로 다른 패키지의 클래스를 사용하는 경우엔 클래스명에 패키지명을 명시해야 한다.
+
+      * */
+
+    }
+}
