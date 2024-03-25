@@ -40,6 +40,13 @@ public class Application1 {
         boolean isTrue = sc.nextBoolean();
         System.out.println("입력하신 논리값은 " + isTrue + " 입니다.");
 
+        /*  2-5. 문자형 입력 */
+        /* charAt(int index)를 사용 */
+        sc.nextLine();
+        System.out.print("아무 문자나 입력해주세요 : ");
+        char ch = sc.nextLine().charAt(0);  // 입력받은 String 배열에서 해당 인덱스를 문자형으로 추출
+        System.out.println("입력하신 문자는 " + ch + " 입니다.");
+
 
 
 
