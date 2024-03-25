@@ -6,7 +6,22 @@ public class Application {
         //a.testSimpleForStatement();
         //a.testForExample1();
         //a.testForExample2();
-        a.testForExample3();
+        //a.testForExample3();
+        //a.printSimpleGugudan();
 
+        A_nestedFor aa = new A_nestedFor();
+        //aa.printGugudanFromTwoToNice();
+        //aa.printGugudanOf(8);
+        //aa.printStarInputRowTime();
+        //aa.printTriangleStars();
+
+        B_while b = new B_while();
+        //b.testSimpleWhileStatement();
+        //b.testWhileExample1();
+        //b.testWhileExample2();
+
+        C_doWhile c = new C_doWhile();
+        //c.testSimpleDoWhileStatement();
+        c.testDoWhileExample();
     }
 }

@@ -44,6 +44,9 @@ public class C_ifElseif {
          *  그래서 학생의 이름과 점수를 입력하면 자동으로 학점 등급이 계산되는 프로그램을 만들기로 했다.
          * */
 
+        // 이거 재작성 필요 : if로 ABCDF 구분, if중첩으로 +여부 확인
+
+
         //학생의 이름과 점수 입력
         Scanner sc = new Scanner(System.in);
         System.out.print("학생의 이름을 입력하세요 : ");
