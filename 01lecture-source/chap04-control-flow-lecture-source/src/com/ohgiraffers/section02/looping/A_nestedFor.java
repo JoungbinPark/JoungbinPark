@@ -83,8 +83,11 @@ public class A_nestedFor {
         System.out.print("출력할 줄 수를 입력하세요 : ");
         int row = sc.nextInt();
         for(int i = 1; i<=row; i++){
-            printSpace(row-1);
+            printSpace(row-i);
+            printStar(i*2-1);
+            System.out.println();
         }
+
 
     }
 
