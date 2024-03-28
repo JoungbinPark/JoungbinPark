@@ -45,10 +45,5 @@ public class Application1 {
         for(int i=0;i<copy.length;i++) {
             System.out.print(copy[i] + " ");
         }
-
-
-
-
-
     }
 }
